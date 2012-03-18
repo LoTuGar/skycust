@@ -6,7 +6,7 @@
 // @include          http://*.skyrates.net/*
 // @require          http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
 // @require          http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js
-// @require          http://plugins.jquery.com/files/aqFloater.js.txt
+// @require          ./aqFloater.js.txt
 //
 // ==/UserScript==
 
